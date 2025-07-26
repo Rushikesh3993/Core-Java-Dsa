@@ -8,7 +8,7 @@ public class Stringj {
         String a = new String(x);
         String b = new String(x);
         String c = "Ram";
-        System.out.println(a ==);
+        System.out.println(a == b);
 
     }
 

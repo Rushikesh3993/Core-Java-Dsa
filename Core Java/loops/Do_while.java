@@ -1,4 +1,5 @@
-package Tasks;
+package loops;
+
 
 public class Do_while {
     

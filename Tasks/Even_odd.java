@@ -13,9 +13,12 @@ public class Even_odd {
             int n = sc.nextInt();
 
             if(n == 0) {
-                System.out.println
+                System.out.println("Program Ended");
+                break;
             }
-        }
+            System.out.println((n % 2  == 0) ? "Even Number.." : "Odd Number..");
+
+        }while(true);
 
     }
 }

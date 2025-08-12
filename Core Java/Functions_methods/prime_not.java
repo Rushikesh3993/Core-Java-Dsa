@@ -16,7 +16,7 @@ public class prime_not {
     public static void primesInRange(int n) {
         for(int i = 2; i <= n; i++) {
             if(isprime(i)) {//true
-                System.out.print(i + " ");
+                System.out.print (i + " ");
 
             }
         }

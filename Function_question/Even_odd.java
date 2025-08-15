@@ -17,3 +17,17 @@ public class Even_odd {
         System.out.println(isEven(4));
     }
 }
+
+// ## Shorter version of this
+
+// public class Even_odd {
+//     public static boolean isEven(int n){
+//         return n % 2 == 0;
+//     }
+
+//     public static void main(String[] args){
+//         System.out.println(isEven(4));  // Output: true
+//         System.out.println(isEven(7));  // Output: false
+//     }
+// }
+
